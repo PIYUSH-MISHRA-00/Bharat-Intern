@@ -2,3 +2,9 @@
 
 # Bharat-Intern
 Repository to contain all my internship projects with Bharat Intern. The task provided during the internship were as follows :-
+
+Links to the project :-
+
+[Blogs](https://github.com/PIYUSH-MISHRA-00/Bharat-Intern/tree/main/Blogs)
+
+[Video Conferencing](https://github.com/PIYUSH-MISHRA-00/Bharat-Intern/tree/main/Video-Conferencing)
